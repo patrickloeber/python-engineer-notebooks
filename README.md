@@ -1,1 +1,1 @@
-# Collection of Jupyter Notebooks for the website
+# Collection of Jupyter Notebooks for the Website
